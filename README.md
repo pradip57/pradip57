@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-ashen-beta.vercel.app](my-portfolio-ashen-beta.vercel.app)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-ashen-beta.vercel.app/](https://my-portfolio-ashen-beta.vercel.app/)
 
 - 📫 How to reach me **dellpidarp57@gmail.com**
 
